@@ -9,3 +9,9 @@ In this challenge, different JavaScript topics and problems will be solved each 
 1. **Day 1: Variables and Data Types** - Understanding `var`, `let`, `const`, and various data types in JavaScript.
 
 ![Logo](./assets/day1.png)
+
+# DAY-2
+
+2. **Day 2: Operators** - Understanding `arithmetic operator`, `assignment operator`, `logical operator`, `comparison operator` & `ternary operator` in JavaScript.
+
+![Logo](./assets/day2.png)
