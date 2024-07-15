@@ -15,3 +15,9 @@ In this challenge, different JavaScript topics and problems will be solved each 
 2. **Day 2: Operators** - Understanding `arithmetic operator`, `assignment operator`, `logical operator`, `comparison operator` & `ternary operator` in JavaScript.
 
 ![Logo](./assets/day2.png)
+
+# DAY-3
+
+2. **Day 2: Control Structures** - Understanding `if else statement`, `nested if else statement`, `switch case`, `ternary operator` & `combining statement` in JavaScript.
+
+![Logo](./assets/day3.png)
