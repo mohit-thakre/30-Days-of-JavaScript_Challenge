@@ -21,3 +21,9 @@ In this challenge, different JavaScript topics and problems will be solved each 
 2. **Day 2: Control Structures** - Understanding `if else statement`, `nested if else statement`, `switch case`, `ternary operator` & `combining statement` in JavaScript.
 
 ![Logo](./assets/day3.png)
+
+# DAY-4
+
+2. **Day 2: Loops** - Understanding `for loop`, `while loop`, `do... while loop`, `nested loops` , `break ( loop control statement)` & `continue ( loop control statement)` in JavaScript.
+
+![Logo](./assets/day4.png)

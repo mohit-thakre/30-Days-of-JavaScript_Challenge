@@ -53,11 +53,30 @@ do {
 console.log(factorial);
 
 // ACTIVITY 4
-// TASK 6
+// TASK 7
 
-// for (let i = 0; i <= 5; i++) {
-//   for (let j = 0; j <= i; j++) {
-//     console.log("*s");
-//   }
-//   console.log(" ");
-// }
+for (let i = 0; i <= 5; i++) {
+  let line = "";
+  for (let j = 0; j <= i; j++) {
+    line += "*";
+  }
+  console.log(line);
+}
+
+// TASK 8
+
+for (let num = 0; num <= 10; num++) {
+  if (num === 5) {
+    continue;
+  }
+  console.log(num);
+}
+
+// TASK 9
+
+for (num1 = 0; num1 <= 10; num1++) {
+  if (num1 === 7) {
+    break;
+  }
+  console.log(num1);
+}
