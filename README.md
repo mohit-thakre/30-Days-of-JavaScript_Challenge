@@ -33,3 +33,9 @@ In this challenge, different JavaScript topics and problems will be solved each 
 5. **Day 5: Function ** - Understanding `function declaration `, `function expresion `, `arrow function `, `function parameter and default value ` & `higher order function` in JavaScript.
 
 ![Logo](./assets/day5.png)
+
+# DAY-6
+
+6. **Day 6: Array ** - Understanding `array creation & access `, `array method (basic and intermediate) `, `array iteration  ` & `multi dimensional array` in JavaScript.
+
+![Logo](./assets/day6.png)
