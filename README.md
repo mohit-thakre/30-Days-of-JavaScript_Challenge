@@ -39,3 +39,9 @@ In this challenge, different JavaScript topics and problems will be solved each 
 6. **Day 6: Array ** - Understanding `array creation & access `, `array method (basic and intermediate) `, `array iteration  ` & `multi dimensional array` in JavaScript.
 
 ![Logo](./assets/day6.png)
+
+# DAY-7
+
+7. **Day 7: Objects ** - Understanding `Object creation & access `, `object method `, `nested object  ` & `This keyword` in JavaScript.
+
+![Logo](./assets/day7.png)
