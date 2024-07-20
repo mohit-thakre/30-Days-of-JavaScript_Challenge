@@ -45,3 +45,9 @@ In this challenge, different JavaScript topics and problems will be solved each 
 7. **Day 7: Objects ** - Understanding `Object creation & access `, `object method `, `nested object  ` & `This keyword` in JavaScript.
 
 ![Logo](./assets/day7.png)
+
+# DAY-8
+
+8. **Day 8: Objects ** - Understanding `template literals `, `destructuring`, `spread & rest operator`, `default parameter` & ` enhanced object literal` in JavaScript.
+
+![Logo](./assets/day8.png)
