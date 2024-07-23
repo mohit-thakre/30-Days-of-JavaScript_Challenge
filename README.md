@@ -51,3 +51,9 @@ In this challenge, different JavaScript topics and problems will be solved each 
 8. **Day 8: Objects ** - Understanding `template literals `, `destructuring`, `spread & rest operator`, `default parameter` & ` enhanced object literal` in JavaScript.
 
 ![Logo](./assets/day8.png)
+
+# DAY-9
+
+9. **Day 9: DOM Manipulation ** - Understanding `selecting and manipulating elements`, `creating and appending elements`, `removing elements`, `modifying attributes and classes ` & ` event handeling` in JavaScript.
+
+![Logo](./assets/day9.png)

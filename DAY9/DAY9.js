@@ -34,3 +34,30 @@ remove.remove();
 const listChild = document.querySelector(".task6");
 
 listChild.removeChild(listChild.lastElementChild);
+
+// ACTIVITY 4
+// TASK 7
+
+const img = document.querySelector(".img");
+img.src = "/assets/day2.png";
+
+//  TASK 8
+
+const change = document.querySelector("#task8");
+change.classList.remove("para");
+change.classList.add("text");
+
+// ACTIVITY 5
+// TASK 9
+
+const task9 = document.querySelector(".changecolor");
+task9.addEventListener("click", function () {
+  document.querySelector(".task9").style.backgroundColor = "red";
+});
+
+// TASK 10
+
+const task10 = document.querySelector(".hover");
+task10.addEventListener("mouseover", function () {
+  task10.style.border = "2px solid red";
+});
