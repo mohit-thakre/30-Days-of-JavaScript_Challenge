@@ -57,3 +57,15 @@ In this challenge, different JavaScript topics and problems will be solved each 
 9. **Day 9: DOM Manipulation ** - Understanding `selecting and manipulating elements`, `creating and appending elements`, `removing elements`, `modifying attributes and classes ` & ` event handeling` in JavaScript.
 
 ![Logo](./assets/day9.png)
+
+# DAY-10
+
+10. **Day 10: Events Handling ** - Understanding `basic event handling`, `mouse events`, `keyboard events`, `form events ` & ` event delegation` in JavaScript.
+
+![Logo](./assets/day10.png)
+
+# DAY-11
+
+11. **Day 11: Events Handling ** - Understanding `promises`, `chaining promises`, `async and await`, `fetch data from api` & `concurrent promises` in JavaScript.
+
+![Logo](./assets/day11.png)
