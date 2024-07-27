@@ -66,6 +66,12 @@ In this challenge, different JavaScript topics and problems will be solved each 
 
 # DAY-11
 
-11. **Day 11: Events Handling ** - Understanding `promises`, `chaining promises`, `async and await`, `fetch data from api` & `concurrent promises` in JavaScript.
+11. **Day 11: Promises and Async/Await ** - Understanding `promises`, `chaining promises`, `async and await`, `fetch data from api` & `concurrent promises` in JavaScript.
 
 ![Logo](./assets/day11.png)
+
+# DAY-12
+
+12. **Day 12: Error Handling ** - Understanding `basic error handling with try-catch`, `finally block`, `custom error objects`, `error handling in promises` & `graceful error handling in  fetch` in JavaScript.
+
+![Logo](./assets/day12.png)
